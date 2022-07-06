@@ -52,44 +52,6 @@ section
 {
     padding: 4% 12%;
 }
-.one
-{
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.85)),url(images/header-background.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 70vh;
-}
-.two
-{
-    flex-direction: column;
-    display: flex;
-    align-items: center;
-    justify-content: center;   
-}
-.three
-{
-    flex-direction: row;
-    display: flex;
-    align-items: center;
-    justify-content: center;   
-}
-.five
-{
-    text-align: center;
-}
-.six
-{
-    width: 60%;
-}
-.eight
-{
-    color: #121212;
-}
-.four
-{
-    color: #FFFFFF;
-}
-
 .link-button
 {
     font-family: 'Poppins', sans-serif;
@@ -122,7 +84,7 @@ section
 }
 .join
 {
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.95)),url(images/volunteer.jpg);
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.95)),url(../images/volunteer.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 200px;
@@ -130,7 +92,7 @@ section
 }
 .one
 {
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.85)),url(images/header-background.jpg);
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.85)),url(../images/header-background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 70vh;
